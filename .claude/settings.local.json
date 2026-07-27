@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find \"/Users/deedee/.claude/projects\" -iname \"*5edcfbee*\" 2>/dev/null)",
+      "Bash(mkdir -p \"/Users/deedee/Desktop/Spinpr.com Website/.claude\")",
+      "Bash(open \"/Users/deedee/Desktop/Spinpr.com Website/index.html\")",
+      "WebFetch(domain:www.spinpr.com)",
+      "WebFetch(domain:thirdarmmarketing.com)",
+      "WebFetch(domain:spinpr.com)"
+    ]
+  }
+}
